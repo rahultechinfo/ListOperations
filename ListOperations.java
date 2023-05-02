@@ -101,6 +101,8 @@ public class ListOperations {
 	 Set <String> set =new HashSet<>();
 	 set.addAll(names);
 	 System.out.println(set);
+		
+	 System.out.println("Set collection");	
 	 
 		}	 
 }
